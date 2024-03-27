@@ -1,7 +1,8 @@
 > [!IMPORTANT]
 > Oi
 >
-> [!NOTE]
+
+[!NOTE]
 > Oi
 
 > [!TIP]
